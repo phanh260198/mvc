@@ -1,6 +1,6 @@
 <?php 
 	namespace mycode;
-	class config(){
+	class config{
 	$hostname = "localhost";
 	$database = "";
 	$user = "root";
