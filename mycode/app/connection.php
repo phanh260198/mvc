@@ -3,7 +3,6 @@
  	class Connection{
  		//ham ket noi csdl
 	 	public static function getInstance(){
-	 		//khai bao bien toan cuc de su dung o day
 	 		global $hostname;
 	 		global $database;
 	 		global $user;
