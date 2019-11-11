@@ -1,4 +1,5 @@
 <?php
+	namespace mycode\app;
  	class Connection{
  		//ham ket noi csdl
 	 	public static function getInstance(){
