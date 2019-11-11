@@ -1,4 +1,6 @@
 <?php 
+	namespace mycode\app;
+	class routing{
 	//tao cac bien mac dinh
 	$area = "frontend";
 	$controller = "home";
@@ -24,4 +26,5 @@
 			die("Class $className not exists!");
 		}
 	}
+}
  ?>
