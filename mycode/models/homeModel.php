@@ -2,7 +2,7 @@
 	namespace mycode\models;
 	use mycode\app\connection;
 
-	public homeModel{
+	class homeModel{
 		public function model_get(){
 			$conn = Connection::getInstance();
 			$query = $conn->prepare("");
